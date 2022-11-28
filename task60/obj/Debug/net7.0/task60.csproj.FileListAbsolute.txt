@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/bin/Debug/net7.0/task60
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/bin/Debug/net7.0/task60.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/bin/Debug/net7.0/task60.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/bin/Debug/net7.0/task60.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/bin/Debug/net7.0/task60.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/refint/task60.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/task60.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/2dArray/task60/obj/Debug/net7.0/ref/task60.dll
